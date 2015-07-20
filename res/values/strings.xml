@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Productos Frescos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_menu"></string>
+    <string name="title_activity_cliente"></string>
+    <string name="title_activity_relacion"></string>
+    <string name="title_activity_vista"></string>
+    <string name="title_activity_listar"></string>
+    <string name="title_activity_resumen"></string>
+    <string name="title_activity_seleccion_resumen"></string>
+    <string name="title_activity_contenedor"></string>
+    <string name="title_activity_contenedor1"></string>
+    <string name="title_activity_cliente2"></string>
+    <string name="title_activity_mapa">MapaActivity</string>
+
+</resources>
